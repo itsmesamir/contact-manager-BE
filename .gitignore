@@ -1,0 +1,12 @@
+/node_modules
+
+# production
+/build
+
+.env
+
+.yarn-integrity
+# VsCode
+.vscode/
+
+.DS_Store
