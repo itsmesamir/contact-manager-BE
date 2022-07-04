@@ -224,9 +224,8 @@ endpoint: /api/contacts/:id
 ```json5
 //response
 {
-"message":"Deleted contact"
+   "message":"Deleted contact"
 }
-
 ```
 
 
