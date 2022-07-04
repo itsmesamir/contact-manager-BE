@@ -214,8 +214,10 @@ endpoint: /api/contacts/:id
       "id":"62bdf4f8b8f4b6f7080ff4ab"
    }
 }
+```
 
 ## 7. Delete user contact
+
 ```
 Method: DELETE
 endpoint: /api/contacts/:id
